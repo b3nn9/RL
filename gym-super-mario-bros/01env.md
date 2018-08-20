@@ -33,5 +33,7 @@ Executing transaction: done
 #     $ conda deactivate
 
 
-(base) C:\Windows\system32>
+(base) C:\Windows\system32>conda activate supermario
+
+(supermario) C:\Windows\system32>
 ~~~
