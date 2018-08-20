@@ -1,0 +1,2 @@
+- (2018.08.20) https://github.com/Microsoft/EdgeML  
+- https://github.com/Microsoft  
